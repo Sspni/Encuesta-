@@ -1,0 +1,28 @@
+body{
+  background-color: beige;
+}
+p{
+  text-align: Center;
+  font-size: 105px;
+  float: center ;
+}
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+.mi-boton {
+  background-color: skyblue; /* Color de fondo */
+  color: white; /* Color del texto */
+  padding: 15px 32px; /* Espaciado interno */
+  text-align: center; /* Alineación del texto */
+  font-size: 25px; /* Tamaño de fuente */
+  border: none; /* Sin bordes */
+  border-radius: 25px; /* Bordes redondeados */
+  cursor: pointer; /* Cambia el cursor a un puntero */
+  align-items: center ;
+}
+
+.mi-boton:hover {
+  background-color: darkblue; /* Color de fondo cuando el botón es presionado */
+} 

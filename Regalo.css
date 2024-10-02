@@ -1,0 +1,19 @@
+body{
+  background-color: mediumpurple;
+}
+p{
+  text-align: Center;
+  font-size: 105px;
+  color: rebeccapurple;
+}
+h4{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: rebeccapurple;
+  border-radius: 15px;
+  background-color:lightblue;
+  text-align:center;
+  border-style: double;
+  border: none;
+  }
+  
